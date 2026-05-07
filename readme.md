@@ -18,11 +18,11 @@
 
 ## Why this list?
 
-The AI agent space exploded in 2023 and hasn't stopped. **This list only includes projects that moved the field forward**.
+The AI agent space exploded in 2023 and hasn't stopped.
+
+**This list only includes projects that moved the field forward**.
 
 Every entry was verified for active development status, genuine technical contribution, and community adoption. Chinese-origin projects are marked with 🇨🇳 — the Chinese AI ecosystem has produced some of the most impactful agent work and deserves first-class visibility.
-
-> **Selection criteria:** Novel architecture OR significant community adoption (1,000+ ★) OR foundational paper (100+ citations) OR production deployment at scale. No vaporware, no thin wrappers.
 
 ---
 
