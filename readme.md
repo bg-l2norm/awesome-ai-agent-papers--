@@ -18,7 +18,7 @@
 
 ## Why this list?
 
-The AI agent space exploded in 2023 and hasn't stopped. Hundreds of repos claim to be "autonomous agent frameworks." Most are weekend wrappers around API calls. **This list only includes projects that moved the field forward** — frameworks with real architectural ideas, benchmarks that changed how we evaluate agents, and papers that introduced paradigms now used everywhere.
+The AI agent space exploded in 2023 and hasn't stopped. **This list only includes projects that moved the field forward**.
 
 Every entry was verified for active development status, genuine technical contribution, and community adoption. Chinese-origin projects are marked with 🇨🇳 — the Chinese AI ecosystem has produced some of the most impactful agent work and deserves first-class visibility.
 
